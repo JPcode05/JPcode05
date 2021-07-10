@@ -10,7 +10,7 @@ It is used twice.
 ## This is a header
 Get ready for a curveball!
 
-[Why don't we link to a header?](#this is a header)
+[Why don't we link to a header?](#This-is-a-header)
 
 ### This is a header
 This is the curveball!
