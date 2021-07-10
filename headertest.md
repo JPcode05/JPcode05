@@ -10,8 +10,12 @@ It is used twice.
 ## This is a header
 Get ready for a curveball!
 
+[Why don't we link to a header?](#this is a header)
+
 ### This is a header
 This is the curveball!
+
+[What if I link to a header that doesn't exist?](#this-is-a-header-666)
 
 ## The End
 So what do you think? This was tested on GitHub.
