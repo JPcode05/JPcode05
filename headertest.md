@@ -17,6 +17,11 @@ This is the curveball!
 
 [What if I link to a header that doesn't exist?](#this-is-a-header-666)
 
+Now get ready...
+
+## This is a header 1
+Gonna see if it says 1-1
+
 ## The End
 So what do you think? This was tested on GitHub.
 
